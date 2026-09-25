@@ -27,6 +27,8 @@ An independent GTA VI reference that works like a tool. Release facts and a coun
 
 ### [GTA VI Global Price Index](https://github.com/LeonidaLab/gta6-price-index)
 
+<a href="https://doi.org/10.5281/zenodo.22965405"><img alt="DOI 10.5281/zenodo.22965405" src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22965405-8b5cf6?style=flat-square&labelColor=171a28"></a>
+
 Official PlayStation Store and Xbox Store prices in **63 markets** (103 listings), converted to US dollars at official reference rates and set against average local pay. Every listing is marked for whether its price includes tax, with the evidence.
 
 | | Standard Edition, listings where the price includes tax |
@@ -37,10 +39,10 @@ Official PlayStation Store and Xbox Store prices in **63 markets** (103 listings
 
 <sub>Data version 2026-09-23. Prices from the stores themselves; exchange rates from the ECB and central banks; pay from the ILO.</sub>
 
-**[Download CSV](https://github.com/LeonidaLab/gta6-price-index/releases/latest/download/gta6-price-index.csv)** · [JSON with sources](https://github.com/LeonidaLab/gta6-price-index/releases/latest/download/gta6-price-index.json) · [Live table and method](https://leonidalab.com/data/price-index/) · CC BY 4.0
+**[Download CSV](https://github.com/LeonidaLab/gta6-price-index/releases/latest/download/gta6-price-index.csv)** · [JSON with sources](https://github.com/LeonidaLab/gta6-price-index/releases/latest/download/gta6-price-index.json) · [Live table and method](https://leonidalab.com/data/price-index/) · [Archived on Zenodo](https://doi.org/10.5281/zenodo.22965405) · CC BY 4.0
 
 ```text
-Leonida Lab (2026). GTA VI Global Price Index, version 2026-09-23. https://leonidalab.com/data/price-index/
+Leonida Lab (2026). GTA VI Global Price Index (Version 2026-09-23) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.22965406
 ```
 
 ## On the site
