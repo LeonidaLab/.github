@@ -17,7 +17,7 @@ An independent GTA VI reference that works like a tool. Release facts and a coun
 
 ## Three rules
 
-| | |
+| Rule | In practice |
 |---|---|
 | **Every fact is tagged** | <img alt="official" src="https://img.shields.io/badge/-official-2dd4bf?style=flat-square"> Rockstar, Take-Two or a platform holder said it, on the record.<br><img alt="reported" src="https://img.shields.io/badge/-reported-fbbf24?style=flat-square"> Credible press said it. Attributed, never upgraded.<br><img alt="tba" src="https://img.shields.io/badge/-tba-9aa0b5?style=flat-square"> Nobody official has said anything yet. |
 | **Zero leaks** | Nothing from leaked footage, datamines or "insiders". Not before launch, not after. |
