@@ -33,11 +33,11 @@ Official PlayStation Store and Xbox Store prices in **63 markets** (103 listings
 
 | | Standard Edition, listings where the price includes tax |
 |---|---|
-| **Cheapest** | Japan $62.35 · India $62.75 · South Korea $66.22 |
-| **Most expensive** | Colombia (Xbox) $106.47 · Israel $105.71 · Hungary $101.42 |
-| **Hardest to afford** | India 24.6% of an average month's pay · Colombia 21.3% · Ukraine 17.0% |
+| **Cheapest** | Japan $62.42 · India $62.60 · South Korea $66.25 |
+| **Most expensive** | Israel (PlayStation) $103.79 · Colombia (Xbox) $101.73 · Hungary $99.19 |
+| **Hardest to afford** | India 24.6% of an average month's pay · Colombia 20.4% · Ukraine 17.0% |
 
-<sub>Data version 2026-09-23. Prices from the stores themselves; exchange rates from the ECB and central banks; pay from the ILO.</sub>
+<sub>Data version 2026-09-30. Prices from the stores themselves; exchange rates from the ECB and central banks; pay from the ILO.</sub>
 
 **[Download CSV](https://github.com/LeonidaLab/gta6-price-index/releases/latest/download/gta6-price-index.csv)** · [JSON with sources](https://github.com/LeonidaLab/gta6-price-index/releases/latest/download/gta6-price-index.json) · [Live table and method](https://leonidalab.com/data/price-index/) · [Archived on Zenodo](https://doi.org/10.5281/zenodo.22965405) · CC BY 4.0
 
