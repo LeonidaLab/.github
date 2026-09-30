@@ -42,7 +42,7 @@ Official PlayStation Store and Xbox Store prices in **63 markets** (103 listings
 **[Download CSV](https://github.com/LeonidaLab/gta6-price-index/releases/latest/download/gta6-price-index.csv)** · [JSON with sources](https://github.com/LeonidaLab/gta6-price-index/releases/latest/download/gta6-price-index.json) · [Live table and method](https://leonidalab.com/data/price-index/) · [Archived on Zenodo](https://doi.org/10.5281/zenodo.22965405) · CC BY 4.0
 
 ```text
-Leonida Lab (2026). GTA VI Global Price Index (Version 2026-09-23) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.22965406
+Leonida Lab (2026). GTA VI Global Price Index (Version 2026-09-30) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23069190
 ```
 
 ## On the site
