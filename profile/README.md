@@ -8,6 +8,7 @@
 <a href="https://leonidalab.com/countdown/"><img alt="GTA VI: November 19, 2026" src="https://img.shields.io/badge/GTA_VI-Nov_19,_2026-ffb347?style=flat-square&labelColor=171a28"></a>
 <a href="https://github.com/LeonidaLab/gta6-price-index"><img alt="Open data: CC BY 4.0" src="https://img.shields.io/badge/open_data-CC_BY_4.0-2dd4bf?style=flat-square&labelColor=171a28"></a>
 <a href="https://leonidalab.com/no-leaks/"><img alt="Leaks: zero" src="https://img.shields.io/badge/leaks-zero-8b5cf6?style=flat-square&labelColor=171a28"></a>
+<a href="https://x.com/LeonidaLabcom"><img alt="X (Twitter): @LeonidaLabcom" src="https://img.shields.io/badge/X-@LeonidaLabcom-eef0f8?style=flat-square&labelColor=171a28"></a>
 
 </div>
 
@@ -31,24 +32,24 @@ An independent GTA VI reference that works like a tool. Release facts and a coun
 
 Official PlayStation Store and Xbox Store prices in **63 markets** (103 listings), converted to US dollars at official reference rates and set against average local pay. Every listing is marked for whether its price includes tax, with the evidence.
 
-| | Standard Edition, listings where the price includes tax |
+| | Standard Edition, what you pay at each country's cheaper store |
 |---|---|
-| **Cheapest** | Japan $62.42 · India $62.60 · South Korea $66.25 |
-| **Most expensive** | Israel (PlayStation) $103.79 · Colombia (Xbox) $101.73 · Hungary $99.19 |
-| **Hardest to afford** | India 24.6% of an average month's pay · Colombia 20.4% · Ukraine 17.0% |
+| **Cheapest** | Japan $61.96 · India $63.87 · South Korea $67.06 |
+| **Most expensive** | Israel $100.75 · Norway $100.25 · Hungary $98.83 |
+| **Hardest to afford** | Indonesia at least 36.5% of an average month's pay · India 25.1% · Colombia 19.1% |
 
-<sub>Data version 2026-09-30. Prices from the stores themselves; exchange rates from the ECB and central banks; pay from the ILO.</sub>
+<sub>Data version 2026-11-11: prices read from the stores on November 11, at the official exchange rates of November 10 (ECB and central banks); pay from the ILO.</sub>
 
 **[Download CSV](https://github.com/LeonidaLab/gta6-price-index/releases/latest/download/gta6-price-index.csv)** · [JSON with sources](https://github.com/LeonidaLab/gta6-price-index/releases/latest/download/gta6-price-index.json) · [Live table and method](https://leonidalab.com/data/price-index/) · [Archived on Zenodo](https://doi.org/10.5281/zenodo.22965405) · CC BY 4.0
 
 ```text
-Leonida Lab (2026). GTA VI Global Price Index (Version 2026-09-30) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23069190
+Leonida Lab (2026). GTA VI Global Price Index (Version 2026-11-11) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24137895
 ```
 
 ## On the site
 
-[Countdown](https://leonidalab.com/countdown/) · [What's confirmed](https://leonidalab.com/confirmed/) · [Price by country](https://leonidalab.com/data/price-index/) · [FAQ](https://leonidalab.com/faq/) · [Changelog](https://leonidalab.com/changelog/) · [RSS](https://leonidalab.com/rss.xml)
+[Countdown](https://leonidalab.com/countdown/) · [What's confirmed](https://leonidalab.com/confirmed/) · [Price by country](https://leonidalab.com/data/price-index/) · [FAQ](https://leonidalab.com/faq/) · [Changelog](https://leonidalab.com/changelog/) · [RSS](https://leonidalab.com/rss.xml) · [X (Twitter)](https://x.com/LeonidaLabcom)
 
 <br>
 
-<sub>Leonida Lab is an unofficial fan resource, not affiliated with, endorsed by or connected to Rockstar Games or Take-Two Interactive. Grand Theft Auto and related marks are trademarks of Take-Two Interactive. No game assets are used.</sub>
+<sub>Leonida Lab is an unofficial fan resource, not affiliated with, endorsed by or connected to Rockstar Games or Take-Two Interactive. Grand Theft Auto and related marks are trademarks of Take-Two Interactive. Game images on the site are official media © Rockstar Games, credited where shown; the open data includes no game assets.</sub>
